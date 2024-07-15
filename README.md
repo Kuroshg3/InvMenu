@@ -1,3 +1,7 @@
+## Note
+### this version of invmenu is plugin|virion based
+#### by kuroshg3
+
 # InvMenu
 **InvMenu is a PocketMine-MP virion that eases creating and managing fake inventories!**
 [![](https://poggit.pmmp.io/shield.state/InvMenu)](https://poggit.pmmp.io/p/InvMenu)
