@@ -2,5 +2,7 @@
 name: invmenu
 author: muqsit, kuroshg3
 main: muqsit\invmenu\Main
-api: 5.0.0
+api: 5.3.0
+version: 4.6.6
+load: STARTUP
 ...
